@@ -1,4 +1,4 @@
-# GitHub account defaults
+# GitHub account repo
 
 Personal projects: Linux, Debian, Raspberry Pi, Arduino, security and beers. 
 
@@ -7,5 +7,4 @@ Personal projects: Linux, Debian, Raspberry Pi, Arduino, security and beers.
 If you find my work useful, you can support it here:
 
 - Ko-fi: https://ko-fi.com/thekix
-
-The funding button for supported repositories is configured through `.github/FUNDING.yml`.
+- GitHub: https://github.com/sponsors/thekix/dashboard
